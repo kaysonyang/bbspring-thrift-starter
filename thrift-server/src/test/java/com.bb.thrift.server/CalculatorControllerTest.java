@@ -2,7 +2,7 @@ package com.bb.thrift.server;
 
 import com.bb.thrift.calculator.TCalculatorService;
 import com.bb.thrift.calculator.TOperation;
-import com.bb.thrift.server.controller.HCalculatorController;
+import com.bb.thrift.client.HCalculatorController;
 import org.apache.thrift.protocol.TProtocol;
 import org.apache.thrift.protocol.TProtocolFactory;
 import org.apache.thrift.transport.THttpClient;

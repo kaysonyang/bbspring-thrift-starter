@@ -1,4 +1,4 @@
-package com.bb.thrift.server.controller;
+package com.bb.thrift.client;
 
 import bb.spring.boot.thrift.client.annotation.ThriftClient;
 import com.bb.thrift.calculator.TCalculatorService;
