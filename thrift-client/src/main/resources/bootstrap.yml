@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: bbthriftclient
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    instanceId: ${spring.application.name}:${spring.application.instance_id:${random.value}}

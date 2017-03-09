@@ -11,6 +11,7 @@
         <module>bbspring-thrift-starter</module>
       <!--  <module>thrift-definition</module>-->
         <module>thrift-server</module>
+        <module>thrift-client</module>
     </modules>
 
     <parent>
