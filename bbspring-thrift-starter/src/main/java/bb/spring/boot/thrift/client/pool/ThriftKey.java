@@ -5,7 +5,7 @@ import org.apache.commons.lang3.text.WordUtils;
 import org.apache.thrift.TServiceClient;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 public class ThriftKey {
 

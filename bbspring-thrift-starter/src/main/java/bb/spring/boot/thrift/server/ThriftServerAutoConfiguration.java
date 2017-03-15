@@ -29,7 +29,7 @@ import javax.servlet.ServletRegistration;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by bob on 16/1/11.
+ * Created by kayson on 16/1/11.
  */
 @Configuration
 @ConditionalOnClass(value = {ThriftController.class})

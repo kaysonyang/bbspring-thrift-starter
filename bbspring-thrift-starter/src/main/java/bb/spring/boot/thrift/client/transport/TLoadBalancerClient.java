@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * 参照THttpClient,支持从注册中心获取服务列表，并根据既定的策略进行负载均衡,利用LoadBalancerClient
  * <p>
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 public class TLoadBalancerClient extends TTransport {
 

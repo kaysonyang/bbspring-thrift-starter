@@ -6,7 +6,7 @@ import org.springframework.boot.actuate.metrics.CounterService;
 import org.springframework.boot.actuate.metrics.GaugeService;
 
 /**
- * Created by bob on 16/1/11.
+ * Created by kayson on 16/1/11.
  */
 public class MetricsThriftMethodInterceptor implements MethodInterceptor {
 

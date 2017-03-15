@@ -7,7 +7,7 @@ import org.apache.thrift.TException;
 
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @ThriftController(value = "/hello2")
 public class UserThriftController implements UserService.Iface {

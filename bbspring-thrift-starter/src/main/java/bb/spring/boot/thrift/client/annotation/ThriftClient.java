@@ -4,7 +4,7 @@ import java.lang.annotation.*;
 
 /**
  * according this Annotation to register bean in spring bean factory through ThriftClientAnnotationBeanPostProcessor
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import java.lang.annotation.*;
 
 /**
- * Created by bob on 16/1/11.
+ * Created by kayson on 16/1/11.
  */
 @Target({ElementType.TYPE})
 @Retention(RetentionPolicy.RUNTIME)

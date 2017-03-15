@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @Configuration
 public class ThriftClientAutoConfiguration {

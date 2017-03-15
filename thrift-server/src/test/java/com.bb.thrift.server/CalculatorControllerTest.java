@@ -22,7 +22,7 @@ import java.util.Map;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = ThriftApp.class)

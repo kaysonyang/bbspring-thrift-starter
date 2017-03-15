@@ -6,7 +6,7 @@ import org.apache.commons.pool2.impl.GenericKeyedObjectPoolConfig;
 import org.apache.thrift.TServiceClient;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 public class ThriftPool extends GenericKeyedObjectPool<ThriftKey, TServiceClient> {
 

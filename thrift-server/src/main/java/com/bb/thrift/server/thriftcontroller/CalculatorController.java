@@ -9,7 +9,7 @@ import org.apache.thrift.TException;
 import java.util.Random;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @ThriftController(value = "/thriftcaclcu")
 public class CalculatorController implements TCalculatorService.Iface {

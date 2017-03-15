@@ -5,7 +5,7 @@ import org.apache.thrift.TServiceClient;
 import org.springframework.cloud.sleuth.Span;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 public class ThriftPooledObject<T extends TServiceClient> extends DefaultPooledObject<T> {
 

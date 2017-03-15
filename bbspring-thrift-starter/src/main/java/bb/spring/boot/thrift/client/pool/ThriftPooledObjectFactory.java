@@ -17,7 +17,7 @@ import org.springframework.cloud.sleuth.Tracer;
 import org.springframework.core.env.PropertyResolver;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 public class ThriftPooledObjectFactory extends BaseKeyedPooledObjectFactory<ThriftKey, TServiceClient> {
 

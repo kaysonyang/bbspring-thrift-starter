@@ -21,7 +21,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.PropertyResolver;
 
 /**
- * Created by bob on 17/1/11.
+ * Created by kayson on 17/1/11.
  */
 @Configuration
 @AutoConfigureAfter({TraceAutoConfiguration.class, ThriftClientAutoConfiguration.class})
